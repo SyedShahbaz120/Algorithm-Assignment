@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: read username 
+Step 3: read password 
+Step 4: validate the credentials -->show message Welcome with username
+Step 5: if attempt > 3 --> display the message contact admin and exit
+Step 6: Stop

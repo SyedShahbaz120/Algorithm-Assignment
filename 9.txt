@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Read marks of 3 students for subjects A,B,C
+Step 3: if m1 and m2 >60 print promoted
+Step 4: sum of A,B,C and Avg of A,B,C using avg = sum/3
+Step 5: total marks of each student with respective subject
+Step 6: average marks of each student with respective subject
+Step 7: declare result using print
+Step 8: Stop

@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Take input Principal
+Step 3: Take input rate
+Step 4: Take input time	
+Step 5: interest = (principal * time * rate) / 100;
+Step 6: compound =principal * Math.pow(1.0+rate/100.0,t) - principal;
+Step 7: print 'simple interest'
+Step 8: Print 'compound interest'.
+Step 9: Stop

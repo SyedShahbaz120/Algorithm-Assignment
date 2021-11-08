@@ -1,0 +1,12 @@
+Step 1: START
+Step 2: Read n
+Step 3: Declare sum=0 and temp = n
+Step 4: rem=n%10
+Step 5: sum= sum +(rem*rem*rem)
+Step 6: n=n/10
+Step 7: Repeat steps 4 to 6 until n>0
+Step 8: if sum = temp
+	print 'n is armstrong number'.
+	else
+	print 'n is not armstrong number'.
+Step 9: Stop

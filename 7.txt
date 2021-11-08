@@ -1,0 +1,9 @@
+Step 1: Input size and elements in array from user. Store it in some variable say size and arr.
+Step 2: Input number to search from user in some variable say toSearch.
+Step 3: Define a flag variable as found = 0. I have initialized found with 0,
+	which means initially I have assumed that searched element does not exists in array.
+Step 4: Run loop from 0 to size. Loop structure should look like for(i=0; i<size; i++).
+Step 5: Inside loop check if current array element is equal to searched number or not.
+	Which is if(arr[i] == toSearch) then set found = 1 flag and terminate from loop.
+	Since element is found no need to continue further.
+Step 6: Outside loop if(found == 1) then element is found otherwise not.

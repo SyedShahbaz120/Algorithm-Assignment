@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: read the CTC from the user
+Step 3: if ctc is in range 1-180000 display the tax 'Nil'
+Step 4: if ctc is in range 181001 - 300000 display the tax '10%'
+Step 5: if ctc is in range 300001 - 500000 display the tax '20%'
+Step 6: if ctc is in range 500000 - 1000000 display the tax '30%'
+Step 7: display the tax amount
+Step 8: Stop

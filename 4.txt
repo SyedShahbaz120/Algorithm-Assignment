@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Read input from user m1,m2,m3
+Step 3: if m1 and m2 >60 print promoted
+Step 4: else if	m2 and m3 >60 print promoted
+Step 5: else if	m1 and m3 >60 print promoted
+Step 6: else print 'failed'
+Step 7: declare result using print
+Step 8: Stop
